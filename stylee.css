@@ -523,4 +523,21 @@ section {
     .about img{
         width: 52vw;
     }
+	.contact form{
+        flex-direction: column;
+        text-align: center;
+        padding: 3rem 5rem;
+    }
+    .input-group-1 input{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 4.5rem 13rem;
+    margin: 2.5rem;
+    font-size: 15px;
+    
+
+    }
+}
+
 }
